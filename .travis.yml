@@ -24,3 +24,5 @@ after_success:
   - docker push lbcostadev/udagram-api-user:v1
   - docker push lbcostadev/udagram-frontend:v1
   - docker push lbcostadev/reverseproxy:v1
+
+# Comment to trigger Travis
